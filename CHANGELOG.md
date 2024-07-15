@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.2 (July 15, 2024)
+
+Add details in package.json
+
 ## 0.0.1 (July 15, 2024)
 
 Initial Commit
