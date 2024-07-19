@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.0.3 (July 19, 2024)
+
+- Remove type parameter in package.json
+- Add prettier-tailwind plugin to package.json
+
 ## 0.0.2 (July 15, 2024)
 
 Add details in package.json

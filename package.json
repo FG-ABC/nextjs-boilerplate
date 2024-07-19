@@ -8,7 +8,6 @@
   },
   "name": "nextjs-template",
   "version": "0.0.1",
-  "type": "module",
   "author": "fg-abc",
   "dependencies": {
     "@heroicons/react": "^2.1.4",
@@ -42,6 +41,9 @@
     "node": ">=20.12.0"
   },
   "prettier": {
-    "prettier": "@vercel/style-guide/prettier"
+    "prettier": "@vercel/style-guide/prettier",
+    "plugins": [
+      "prettier-plugin-tailwindcss"
+    ]
   }
 }
